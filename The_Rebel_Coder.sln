@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Rebel_Coder", "The_Rebel_Coder\The_Rebel_Coder.csproj", "{0774FADC-7F16-41CA-9643-4DBEAEC1F123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0774FADC-7F16-41CA-9643-4DBEAEC1F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0774FADC-7F16-41CA-9643-4DBEAEC1F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0774FADC-7F16-41CA-9643-4DBEAEC1F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0774FADC-7F16-41CA-9643-4DBEAEC1F123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EF4DE2-70A1-4E2D-BC13-8CE002DBC5BC}
+	EndGlobalSection
+EndGlobal
